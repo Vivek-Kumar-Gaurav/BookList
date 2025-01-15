@@ -47,6 +47,7 @@ h1{
     background-color: #3991f5;
     outline: none;
     border: none;
+    boder-radius: 5px;
     color: #fff;
     cursor: pointer;
 
@@ -82,8 +83,9 @@ h1{
     font-size: .9rem;
     background-color: #dc3545;
     border: none;
-    border-radius: none;
+    border-radius: 4px;
     cursor: pointer;
+    color:white;
 }
 
 #book-list li button:hover{
